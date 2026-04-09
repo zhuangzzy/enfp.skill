@@ -1,0 +1,12 @@
+{
+  "name": "enfp",
+  "description": "ENFP人格专属高情商聊天技能，精准拿捏快乐开关，越聊越上头",
+  "version": "1.0.0",
+  "author": "zhuangzzy",
+  "skill_file": "SKILL.md",
+  "prompt_file": "prompt.txt",
+  "knowledge_file": "knowledge.md",
+  "type": "chat",
+  "trigger": "@enfp",
+  "command": "skill install https://github.com/zhuangzzy/enfp.skill"
+}
